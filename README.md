@@ -17,14 +17,19 @@ Como Coordenador de Planejamento e Controle no Aeroporto Internacional de Guarul
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja alguns projetos realizados em Power BI:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Análise Nine Box dos Perfis Comportamentais e Técnicos de Colaboradores:** https://bit.ly/3CcAePY
+* **Análise dos dados diários da Johns Hopkins University pertinentes ao Covid-19:** https://bit.ly/3ntCyMu
+* **Análise de custos operacionais de um plano de saúde:** https://bit.ly/3Gq2MYI
+* **Análise de resultados de financeiros e operacionais de uma loja de celulares:** https://bit.ly/3vP65Ea
+* **Análise de Resultados Financeiros DRE e Fluxo de Caixa:** https://bit.ly/2ZvHCI7
+* **Análise do Registro Histórico de Temperaturas Médias Mensais Mundiais de 1743 a 2013:** https://bit.ly/3baivgj
+* **Análise de resultados financeiros e operacionais de uma rede hoteleira:** https://bit.ly/314fxbm
+* **Análise dos dados nacionais dos candidatos das Eleições Municipais de 2020:** https://bit.ly/3jAiffe
+* **Análise de resultados de uma fábrica de chocolates:** https://bit.ly/3ntITY8
+* **Análise dos preços nacionais de combustíveis entre 2004 e 2019:** https://bit.ly/3BhJ6mf
+* **Análise de resultados de uma concessionária de automóveis:** https://bit.ly/3md6wVy
+
 
 ---
