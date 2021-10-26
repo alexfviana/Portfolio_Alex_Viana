@@ -24,7 +24,7 @@ Veja alguns projetos realizados em Power BI:
 * **Análise de custos operacionais de um plano de saúde:** https://bit.ly/3Gq2MYI
 * **Análise de resultados de financeiros e operacionais de uma loja de celulares:** https://bit.ly/3vP65Ea
 * **Análise de Resultados Financeiros DRE e Fluxo de Caixa:** https://bit.ly/2ZvHCI7
-* **Análise do Registro Histórico de Temperaturas Médias Mensais Mundiais de 1743 a 2013:** https://bit.ly/3baivgj
+* **Análise do Registro Histórico de Temperaturas Mundiais de 1743 a 2013:** https://bit.ly/3baivgj
 * **Análise de resultados financeiros e operacionais de uma rede hoteleira:** https://bit.ly/314fxbm
 * **Análise dos dados nacionais dos candidatos das Eleições Municipais de 2020:** https://bit.ly/3jAiffe
 * **Análise de resultados de uma fábrica de chocolates:** https://bit.ly/3ntITY8
