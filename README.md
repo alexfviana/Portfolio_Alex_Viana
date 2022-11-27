@@ -17,6 +17,11 @@ Como Coordenador de Planejamento e Controle no Aeroporto Internacional de Guarul
 
 
 ## Projetos:
+Veja alguns projetos realizados em Python:
+
+* **Análise das anomalias do 2º Turno das eleições brasileiras com os dados do Portal de Dados Abertos do TSE:** http://bit.ly/3VoF4TG
+* **Análise e clusterização dos dados de consumo de energia elétrica de uma residência:** http://bit.ly/3VuhDYP
+
 Veja alguns projetos realizados em Power BI:
 
 * **Análise Nine Box dos Perfis Comportamentais e Técnicos de Colaboradores:** https://bit.ly/3CcAePY
