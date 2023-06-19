@@ -24,6 +24,11 @@ Veja alguns projetos realizados em Python:
 * **Análise e clusterização dos dados de consumo de energia elétrica de uma residência:** http://bit.ly/3VuhDYP
 * **Projetos de Machine Learning em Python:** http://bit.ly/3F9H4JQ
 
+Veja alguns projetos realizados em Tableau:
+
+* **Dashboard de Segmentação de Clientes:** https://bit.ly/42JiNTv
+* **Dashboards com Análise de Vendas:** https://tabsoft.co/3Phtn0X
+
 Veja alguns projetos realizados em Power BI:
 
 * **Análise Nine Box dos Perfis Comportamentais e Técnicos de Colaboradores:** https://bit.ly/3CcAePY
