@@ -20,7 +20,6 @@ Como Coordenador de Planejamento e Controle no Aeroporto Internacional de Guarul
 Veja alguns projetos realizados em Python:
 
 * **Marketing Analytics - Segmentação de Clientes de Food Delivery:** https://bit.ly/3GORdvW
-* **Análise das anomalias do 2º Turno das eleições brasileiras com os dados do Portal do TSE:** http://bit.ly/3VoF4TG
 * **Análise e clusterização dos dados de consumo de energia elétrica de uma residência:** http://bit.ly/3VuhDYP
 * **Projetos de Machine Learning em Python:** http://bit.ly/3F9H4JQ
 
