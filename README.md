@@ -38,9 +38,7 @@ Veja alguns projetos realizados em Power BI:
 * **Análise do Registro Histórico de Temperaturas Mundiais de 1743 a 2013:** https://bit.ly/3baivgj
 * **Análise de resultados financeiros e operacionais de uma rede hoteleira:** https://bit.ly/314fxbm
 * **Análise dos dados nacionais dos candidatos das Eleições Municipais de 2020:** https://bit.ly/3jAiffe
-* **Análise de resultados de uma fábrica de chocolates:** https://bit.ly/3ntITY8
 * **Análise dos preços nacionais de combustíveis entre 2004 e 2019:** https://bit.ly/3BhJ6mf
-* **Análise de resultados de uma concessionária de automóveis:** https://bit.ly/3md6wVy
 
 
 ---
